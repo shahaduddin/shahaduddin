@@ -2,14 +2,9 @@
 
 <div align="center">
   
-  ```
-  ██████╗ ██╗   ██╗███████╗███████╗███████╗██╗   ██╗███████╗
-  ██╔══██╗██║   ██║██╔════╝██╔════╝██╔════╝██║   ██║██╔════╝
-  ██████╔╝██║   ██║███████╗███████╗█████╗  ██║   ██║███████╗
-  ██╔═══╝ ██║   ██║╚════██║╚════██║██╔══╝  ██║   ██║╚════██║
-  ██║     ╚██████╔╝███████║███████║███████╗╚██████╔╝███████║
-  ╚═╝      ╚═════╝ ╚══════╝╚══════╝╚══════╝ ╚═════╝ ╚══════╝
-  ```
+
+<img align="center" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=36BCF7&lines=Mathematician+%2B+Programmer;Numerical+Analysis+%2B+Algorithms;Building+Solutions+from+Theory" alt="Animated introduction" />
+
 
   **Mathematics BSc Student** | **Numerical Analysis Enthusiast** | **Algorithm Designer** | **Developer**
   
@@ -23,8 +18,6 @@
 ---
 
 ## 🎓 About Me
-
-<img align="right" width="300" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=36BCF7&lines=Mathematician+%2B+Programmer;Numerical+Analysis+%2B+Algorithms;Building+Solutions+from+Theory" alt="Animated introduction" />
 
 I'm a dedicated **Mathematics BSc student** with a passion for turning theoretical concepts into practical solutions. My academic journey has equipped me with strong foundations in:
 
@@ -47,7 +40,7 @@ My work bridges the gap between pure mathematics and practical programming, with
 |----------|--------|
 | **Mathematics** | Numerical Analysis • Linear Algebra • Calculus • Discrete Mathematics • Probability & Statistics • Optimization Theory |
 | **Algorithms** | Sorting & Searching • Dynamic Programming • Graph Algorithms • Greedy Methods • Numerical Algorithms • Complexity Analysis |
-| **Programming Languages** | Python • Java • C++ • C • JavaScript • MATLAB |
+| **Programming Languages** | Python • Fortran • C++ • C • JavaScript • MATLAB |
 | **Technical Skills** | Algorithm Design • Data Structure Implementation • Computational Geometry • Scientific Computing • Unit Testing |
 | **Tools & Libraries** | NumPy • SciPy • Pandas • Matplotlib • Git • LaTeX |
 
@@ -84,28 +77,14 @@ Tackling complex computational challenges with mathematical rigor and coding exc
 
 </div>
 
----
-
-## 📈 GitHub Statistics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shahaduddin&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahaduddin&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 <div align="center">
 
-- 🔬 **Advancing**: Numerical analysis techniques and their computational implementations
-- 📚 **Learning**: Advanced optimization algorithms and machine learning fundamentals
-- 🛠️ **Building**: Robust solutions combining mathematical theory with clean code
-- 🤝 **Collaborating**: Open to projects in computational mathematics and algorithm design
+ 🔬 **Advancing**: Numerical analysis techniques and their computational implementations  
+ 📚 **Learning**: Advanced optimization algorithms and machine learning fundamentals  
+ 🛠️ **Building**: Robust solutions combining mathematical theory with clean code  
+ 🤝 **Collaborating**: Open to projects in computational mathematics and algorithm design
 
 </div>
 
@@ -123,10 +102,6 @@ Data Structures █████████░░░░░░░░░░░ 75%
 System Design   ██████░░░░░░░░░░░░░░ 60%
 ```
 
-**Languages**: Python | Java | C++ | C | JavaScript | MATLAB
-
-**Frameworks & Tools**: NumPy | SciPy | Matplotlib | Git | LaTeX
-
 </div>
 
 ---
@@ -138,10 +113,10 @@ System Design   ██████░░░░░░░░░░░░░░ 60%
 > *"Mathematics is the language of the universe, and programming is how we speak back to it."*
 
 I'm passionate about:
-- ✨ Solving problems with mathematical elegance
-- 🚀 Writing efficient, scalable algorithms
-- 📖 Learning and sharing knowledge
-- 🔍 Understanding the 'why' behind every solution
+ ✨ Solving problems with mathematical elegance  
+ 🚀 Writing efficient, scalable algorithms  
+ 📖 Learning and sharing knowledge  
+ 🔍 Understanding the 'why' behind every solution
 
 </div>
 
@@ -151,9 +126,9 @@ I'm passionate about:
 
 <div align="center">
 
-<a href="https://github.com/shahaduddin" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahaduddin)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahaduddin@hotmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahaduddin)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&multiline=true&width=500&lines=Open+to+collaborating+on+interesting+projects;Always+interested+in+mathematical+challenges;Let's+build+something+amazing+together!)](https://github.com/shahaduddin)
 
