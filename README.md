@@ -216,20 +216,3 @@ Last Updated: 2026-02-14 | Mathematics BSc Student | Computational Enthusiast
 shahaduddin.com • GitHub • LinkedIn
 
 </div>
-```
-
-🔑 Key Changes Made:
-
-1. Added New "My Digital Presence" Section
-
-· Created a dedicated, organized section showing all your platforms
-· Grouped by category: Core Hub, Professional, Social, Contact
-· Clear visual separation using badges
-
-2. Quick Reference Card
-
-```
-Professional: @shahaduddin (GitHub, LinkedIn, Discord)
-Social:       @theshahaduddin (Twitter, Instagram, Pinterest, Facebook)
-Web:          shahaduddin.com
-Email:        hello@shahaduddin.com
