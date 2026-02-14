@@ -129,33 +129,33 @@ I'm passionate about:
 
 ---
 
-🌐 My Digital Presence
+## 🌐 My Digital Presence
 
 <div align="center">
 
-Core Professional Hub
+### Core Professional Hub
+[![Website](https://img.shields.io/badge/Website-shahaduddin.com-2A9D8F?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shahaduddin.com)
+*Visit my portfolio for the complete picture*
 
-https://img.shields.io/badge/Website-shahaduddin.com-2A9D8F?style=for-the-badge&logo=google-chrome&logoColor=white
-Visit my portfolio for the complete picture
+### Professional Platforms
+[![GitHub](https://img.shields.io/badge/GitHub-shahaduddin-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shahaduddin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shahaduddin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahaduddin)
+[![Discord](https://img.shields.io/badge/Discord-shahaduddin-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/shahaduddin)
 
-Professional Platforms
+### Social & Community
+[![Twitter](https://img.shields.io/badge/Twitter-@theshahaduddin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/theshahaduddin)
+[![Instagram](https://img.shields.io/badge/Instagram-@theshahaduddin-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/theshahaduddin)
+[![Threads](https://img.shields.io/badge/Threads-@theshahaduddin-000000?style=for-the-badge&logo=threads&logoColor=white)](https://threads.net/@theshahaduddin)
+[![Pinterest](https://img.shields.io/badge/Pinterest-@theshahaduddin-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/theshahaduddin)
+[![Facebook](https://img.shields.io/badge/Facebook-@theshahaduddin-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/theshahaduddin)
 
-https://img.shields.io/badge/GitHub-shahaduddin-100000?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-shahaduddin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Discord-shahaduddin-5865F2?style=for-the-badge&logo=discord&logoColor=white
+### Direct Contact
+[![Email](https://img.shields.io/badge/Email-hello@shahaduddin.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@shahaduddin.com)
+[![Dev Contact](https://img.shields.io/badge/Dev_Contact-dev@shahaduddin.com-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev@shahaduddin.com)
 
-Social & Community
+---
 
-https://img.shields.io/badge/Twitter-@theshahaduddin-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
-https://img.shields.io/badge/Instagram-@theshahaduddin-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-https://img.shields.io/badge/Threads-@theshahaduddin-000000?style=for-the-badge&logo=threads&logoColor=white
-https://img.shields.io/badge/Pinterest-@theshahaduddin-BD081C?style=for-the-badge&logo=pinterest&logoColor=white
-https://img.shields.io/badge/Facebook-@theshahaduddin-1877F2?style=for-the-badge&logo=facebook&logoColor=white
-
-Direct Contact
-
-https://img.shields.io/badge/Email-hello@shahaduddin.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/Dev_Contact-dev@shahaduddin.com-2A9D8F?style=for-the-badge&logo=gmail&logoColor=white
+### 📍 Quick Reference
 
 ---
 
@@ -171,37 +171,35 @@ Email:        hello@shahaduddin.com
 </div>
 
 ---
-
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
 
-https://github-readme-stats.vercel.app/api?username=shahaduddin&show_icons=true&theme=tokyonight
+![Shahad's GitHub stats](https://github-readme-stats.vercel.app/api?username=shahaduddin&show_icons=true&theme=tokyonight)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=shahaduddin&layout=compact&theme=tokyonight
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shahaduddin&layout=compact&theme=tokyonight)
 
 </div>
 
 ---
 
-🤝 Let's Collaborate
+## 🤝 Let's Collaborate
 
 <div align="center">
 
 I'm always interested in connecting with:
 
-· 🧮 Fellow mathematics enthusiasts
-· 💻 Developers working on computational projects
-· 🔬 Researchers in numerical analysis
+· 🧮 Fellow mathematics enthusiasts  
+· 💻 Developers working on computational projects  
+· 🔬 Researchers in numerical analysis  
 · 🚀 Open source collaborators
 
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&multiline=true&width=500&lines=Open+to+collaborating+on+interesting+projects;Always+interested+in+mathematical+challenges;Let's+build+something+amazing+together!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=36BCF7&multiline=true&width=500&lines=Open+to+collaborating+on+interesting+projects;Always+interested+in+mathematical+challenges;Let's+build+something+amazing+together!)](https://github.com/shahaduddin)
 
-Quick Connect
-
-📫 Best way to reach me: hello@shahaduddin.com
-🐦 DM me: @theshahaduddin
-💬 Chat: Discord: shahaduddin
+### Quick Connect
+📫 **Best way to reach me**: [hello@shahaduddin.com](mailto:hello@shahaduddin.com)  
+🐦 **DM me**: [@theshahaduddin](https://twitter.com/theshahaduddin)  
+💬 **Chat**: Discord: `shahaduddin`
 
 </div>
 
@@ -209,10 +207,10 @@ Quick Connect
 
 <div align="center">
 
-🚀 Keep Learning, Keep Building, Keep Solving!
+### 🚀 Keep Learning, Keep Building, Keep Solving!
 
-Last Updated: 2026-02-14 | Mathematics BSc Student | Computational Enthusiast
+*Last Updated: 2026-02-14 | Mathematics BSc Student | Computational Enthusiast*
 
-shahaduddin.com • GitHub • LinkedIn
+[shahaduddin.com](https://shahaduddin.com) • [GitHub](https://github.com/shahaduddin) • [LinkedIn](https://linkedin.com/in/shahaduddin)
 
 </div>
